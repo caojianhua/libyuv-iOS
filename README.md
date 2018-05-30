@@ -19,5 +19,5 @@ $ brew install carthage
 To integrate libyuv framework into your Xcode project using Carthage, specify it in your `Cartfile`:
 
 ```ogdl
-github "caojianhua1741/libyuv-iOS" "master"
+github "caojianhua/libyuv-iOS" "master"
 ```
